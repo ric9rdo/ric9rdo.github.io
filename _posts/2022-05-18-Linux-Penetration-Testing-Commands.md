@@ -7,7 +7,7 @@ title: Linux Penetration Testing Commands
 - The commands listed below are designed for local enumeration, typical commands a penetration tester would use during post exploitation or when performing command injection etc. See our pen test cheat sheet for an in depth list of pen testing tool commands and example usage.
 
 ## Linux Network Commands
-COMMAND	DESCRIPTION
+COMMAND DESCRIPTION
 
 `netstat -tulpn`
 
@@ -77,10 +77,11 @@ Enables IP forwarding, turns Linux box into a router - handy for routing traffic
 
 Use Google DNS.
 
+
 ## System Information Commands
 ### Useful for local enumeration.
 
-COMMAND	DESCRIPTION
+COMMAND DESCRIPTION
 
 `whoami`
 
@@ -126,8 +127,10 @@ history
 
 Show bash history, commands the user has entered previously.
 
-Redhat / CentOS / RPM Based Distros
+## Redhat / CentOS / RPM Based Distros
+
 COMMAND	DESCRIPTION
+
 cat /etc/redhat-release
 
 Shows Redhat / CentOS version number.
@@ -140,10 +143,11 @@ rpm -q --changelog openvpn
 
 Check installed RPM is patched against CVE, grep the output for CVE.
 
-YUM Commands
-Package manager used by RPM based systems, you can pull some usefull information about installed packages and or install additional tools.
+## YUM Commands
+### Package manager used by RPM based systems, you can pull some usefull information about installed packages and or install additional tools.
 
-COMMAND	DESCRIPTION
+COMMAND DESCRIPTION
+
 yum update
 
 Update all RPM packages with YUM, also shows whats out of date.
@@ -200,8 +204,10 @@ yum groupinstall 'Development Tools'
 
 Install YUM group.
 
-Debian / Ubuntu / .deb Based Distros
-COMMAND	DESCRIPTION
+## Debian / Ubuntu / .deb Based Distros
+
+COMMAND DESCRIPTION
+
 cat /etc/debian_version
 
 Shows Debian version number.
@@ -214,8 +220,10 @@ dpkg -l
 
 List all installed packages on Debian / .deb based Linux distro.
 
-Linux User Management
-COMMAND	DESCRIPTION
+## Linux User Management
+
+COMMAND DESCRIPTION
+
 useradd new-user
 
 Creates a new Linux user.
@@ -228,10 +236,11 @@ deluser username
 
 Remove a Linux user.
 
-Linux Decompression Commands
-How to extract various archives (tar, zip, gzip, bzip2 etc) on Linux and some other tricks for searching inside of archives etc.
+## Linux Decompression Commands
+### How to extract various archives (tar, zip, gzip, bzip2 etc) on Linux and some other tricks for searching inside of archives etc.
 
-COMMAND	DESCRIPTION
+COMMAND DESCRIPTION
+
 unzip archive.zip
 
 Extracts zip file on Linux.
@@ -280,8 +289,10 @@ upx -9 -o output.exe input.exe
 
 UPX compress .exe file Linux.
 
-Linux Compression Commands
-COMMAND	DESCRIPTION
+## Linux Compression Commands
+
+COMMAND DESCRIPTION
+
 zip -r file.zip /dir/*
 
 Creates a .zip file on Linux.
@@ -302,8 +313,10 @@ gzip file
 
 Creates a file.gz file on Linux.
 
-Linux File Commands
-COMMAND	DESCRIPTION
+## Linux File Commands
+
+COMMAND DESCRIPTION
+
 df -h blah
 
 Display size of file / dir Linux.
@@ -344,13 +357,15 @@ rm -rf
 
 Remove files and directories without prompting for confirmation.
 
-Samba Commands
-Connect to a Samba share from Linux.
+## Samba Commands
+### Connect to a Samba share from Linux.
 
 $ smbmount //server/share /mnt/win -o user=username,password=password1
 $ smbclient -U user \\\\server\\share
 $ mount -t cifs -o username=user,password=password //x.x.x.x/share /mnt/share
-Breaking Out of Limited Shells
+
+## Breaking Out of Limited Shells
+
 Credit to G0tmi1k for these (or wherever he stole them from!).
 
 The Python trick:
@@ -358,8 +373,11 @@ The Python trick:
 python -c 'import pty;pty.spawn("/bin/bash")'
 echo os.system('/bin/bash')
 /bin/sh -i
-Misc Commands
-COMMAND	DESCRIPTION
+
+## Misc Commands
+
+COMMAND DESCRIPTION
+
 init 6
 
 Reboot Linux from the command line.
@@ -398,7 +416,7 @@ Change file / dir permissions, see [Linux File System Permissons](#linux-file-sy
 
 Clear bash history:
 
-      $ ssh user@X.X.X.X | cat /dev/null > ~/.bash_history
+$ ssh user@X.X.X.X | cat /dev/null > ~/.bash_history
     
 Linux File System Permissions
 VALUE	MEANING
@@ -426,8 +444,10 @@ rw-r--r-- Owner can read and write, everyone else can read.
 
 rw------- Owner can read and write, everyone else has no access.
 
-Linux File System
-DIRECTORY	DESCRIPTION
+## Linux File System
+
+DIRECTORY DESCRIPTION
+
 /
 
 / also know as "slash" or the root.
@@ -500,10 +520,11 @@ Programs, libraries, documentation etc. for all user-related programs.
 
 Storage for all variable files and temporary files created by users, such as log files, mail queue, print spooler. Web servers, Databases etc.
 
-Linux Interesting Files / Dir’s
-Places that are worth a look if you are attempting to privilege escalate / perform post exploitation.
+## Linux Interesting Files / Dir’s
+### Places that are worth a look if you are attempting to privilege escalate / perform post exploitation.
 
-DIRECTORY	DESCRIPTION
+DIRECTORY DESCRIPTION
+
 /etc/passwd
 
 Contains local Linux users.
@@ -561,3 +582,6 @@ Apache access log file typical path.
 /etc/fstab
 
 File system mounts.
+
+
+Source: https://highon.coffee/blog/linux-commands-cheat-sheet/#linux-penetration-testing-commands

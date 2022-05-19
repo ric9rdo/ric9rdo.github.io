@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://tryhackme-badges.s3.amazonaws.com/onionpod.png" alt="TryHackMe">
   
-## I cover content about
+### I cover content about
   
 - Linux
 - Windows
@@ -10,8 +10,6 @@
 - Tryhackme rooms
 - Brain dumps and others
   
-  
-
 #### If you find this content useful...
   
 <h3 align="left">Support:</h3>

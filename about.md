@@ -1,5 +1,3 @@
-## Welcome to my cybersecurity (b)log
-
 <p align="left"> <img src="https://tryhackme-badges.s3.amazonaws.com/onionpod.png" alt="TryHackMe">
   
 ## I cover content about

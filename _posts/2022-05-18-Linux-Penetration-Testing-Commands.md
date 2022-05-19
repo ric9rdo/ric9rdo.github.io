@@ -3,8 +3,7 @@ layout: post
 title: Linux Penetration Testing Commands
 ---
 
-# Linux Penetration Testing Commands
-- The commands listed below are designed for local enumeration, typical commands a penetration tester would use during post exploitation or when performing command injection etc. See our pen test cheat sheet for an in depth list of pen testing tool commands and example usage.
+The commands listed below are designed for local enumeration, typical commands a penetration tester would use during post exploitation or when performing command injection etc. See our pen test cheat sheet for an in depth list of pen testing tool commands and example usage.
 
 ## Linux Network Commands
 COMMAND DESCRIPTION

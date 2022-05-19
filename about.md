@@ -1,15 +1,25 @@
----
-layout: page
-title: About
-permalink: /about/
----
+## Welcome to my cybersecurity (b)log
 
-Some information about you!
+<p align="left"> <img src="https://tryhackme-badges.s3.amazonaws.com/onionpod.png" alt="TryHackMe">
+  
+## I cover content about
+  
+- Linux
+- Windows
+- Hacking
+- Tools and code
+- Useful links
+- Tryhackme rooms
+- Brain dumps and others
+  
+  
 
-### More Information
+#### If you find this content useful...
+  
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ricardo.sec"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ricardo.sec" /></a></p><br><br>
 
-A place to include any other types of information that you'd like to include about yourself.
+<h3 align="left">My GitHub content:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ric9rdo&show_icons=true&locale=en&layout=compact" alt="ric9rdo" /></p>
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ric9rdo&show_icons=true&locale=en" alt="ric9rdo" /></p>

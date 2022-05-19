@@ -39,7 +39,7 @@ disqus:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Your website URL (e.g. http://ric9rdo.github.io or http://www.ric9rdo.com)
 # Used for Sitemap.xml and your RSS feed
 url:
 
@@ -55,7 +55,7 @@ baseurl: ""
 
 permalink: /:title/
 
-# The release of Jekyll Now that you're using
+# The release of Jekyll that you're using
 version: v1.2.0
 
 # Jekyll 3 now only supports Kramdown for Markdown

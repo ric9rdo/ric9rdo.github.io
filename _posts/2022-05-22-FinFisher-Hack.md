@@ -11,7 +11,7 @@ Here is the write-up/guide from the FinFisher hack, which is excellent reading (
 
 I'm not writing this to brag about what an 31337 h4x0r I am and what m4d sk1llz it took to 0wn Gamma. I'm writing this to demystify hacking, to show how simple it is, and to hopefully inform and inspire you to go out and hack shit. If you have no experience with programming or hacking, some of the text below might look like a foreign language. Check the resources section at the end to help you get started. And trust me, once you've learned the basics you'll realize this really is easier than filing a FOIA request.
 
-## -- 2 -- Staying Safe
+## -- 2 -- Staying Safe 
 
 This is illegal, so you'll need to take same basic precautions:
 

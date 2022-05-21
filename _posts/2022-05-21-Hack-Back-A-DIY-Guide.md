@@ -33,7 +33,7 @@ Who doesn't like a good (true) and inspiring story?
 
 
 
---[ 1 - Introduction ]----------------------------------------------------------
+## --[ 1 - Introduction ]----------------------------------------------------------
 
 You'll notice the change in language since the last edition [1]. The
 English-speaking world already has tons of books, talks, guides, and
@@ -57,7 +57,7 @@ new forms of struggle" [5]. Hacking is a powerful tool, let's learn and fight!
 [5] http://madrid.cnt.es/noticia/consideraciones-sobre-el-ataque-informatico-a-gamma-group
 
 
---[ 2 - Hacking Team ]----------------------------------------------------------
+## --[ 2 - Hacking Team ]----------------------------------------------------------
 
 Hacking Team was a company that helped governments hack and spy on
 journalists, activists, political opposition, and other threats to their power
@@ -83,7 +83,7 @@ its effectiveness.
 [13] http://motherboard.vice.com/en_ca/read/hacking-team-founder-hey-fbi-we-can-help-you-crack-the-dark-web
 
 
---[ 3 - Stay safe out there ]---------------------------------------------------
+## --[ 3 - Stay safe out there ]---------------------------------------------------
 
 Unfortunately, our world is backwards. You get rich by doing bad things and go
 to jail for doing good. Fortunately, thanks to the hard work of people like
@@ -133,7 +133,7 @@ precautions:
 [11] http://www.documentcloud.org/documents/1342115-timeline-correlation-jeremy-hammond-and-anarchaos.html
 
 
-----[ 3.1 - Infrastructure ]----------------------------------------------------
+### ----[ 3.1 - Infrastructure ]----------------------------------------------------
 
 I don't hack directly from Tor exit nodes. They're on blacklists, they're
 slow, and they can't receive connect-backs. Tor protects my anonymity while I
@@ -158,7 +158,7 @@ Obviously, you have to use an anonymous payment method, like bitcoin (if it's
 used carefully).
 
 
-----[ 3.2 - Attribution ]-------------------------------------------------------
+### ----[ 3.2 - Attribution ]-------------------------------------------------------
 
 In the news we often see attacks traced back to government-backed hacking
 groups ("APTs"), because they repeatedly use the same tools, leave the same
@@ -174,13 +174,13 @@ this attack, and I changed my way of doing some things to not leave my usual
 forensic footprint.
 
 
---[ 4 - Information Gathering ]-------------------------------------------------
+## --[ 4 - Information Gathering ]-------------------------------------------------
 
 Although it can be tedious, this stage is very important, since the larger the
 attack surface, the easier it is to find a hole somewhere in it.
 
 
-----[ 4.1 - Technical Information ]---------------------------------------------
+### ----[ 4.1 - Technical Information ]---------------------------------------------
 
 Some tools and techniques are:
 
@@ -232,7 +232,7 @@ Some tools and techniques are:
 [10] http://blindelephant.sourceforge.net/
 
 
-----[ 4.2 - Social Information ]------------------------------------------------
+### ----[ 4.2 - Social Information ]------------------------------------------------
 
 For social engineering, it's useful to have information about the employees,
 their roles, contact information, operating system, browser, plugins,
@@ -269,14 +269,14 @@ software, etc. Some resources are:
 [2] https://www.elevenpaths.com/es/labstools/foca-2/index.html
 
 
---[ 5 - Entering the network ]--------------------------------------------------
+## --[ 5 - Entering the network ]--------------------------------------------------
 
 There are various ways to get a foothold. Since the method I used against
 Hacking Team is uncommon and a lot more work than is usually necessary, I'll
 talk a little about the two most common ways, which I recommend trying first.
 
 
-----[ 5.1 - Social Engineering ]------------------------------------------------
+### ----[ 5.1 - Social Engineering ]------------------------------------------------
 
 Social engineering, specifically spear phishing, is responsible for the
 majority of hacks these days. For an introduction in Spanish, see [1]. For
@@ -291,7 +291,7 @@ likely to recognize and investigate a spear phishing attempt.
 [3] http://www.netcomunity.com/lestertheteacher/doc/ingsocial1.pdf
 
 
-----[ 5.2 - Buying Access ]-----------------------------------------------------
+### ----[ 5.2 - Buying Access ]-----------------------------------------------------
 
 Thanks to hardworking Russians and their exploit kits, traffic sellers, and
 bot herders, many companies already have compromised computers in their
@@ -301,7 +301,7 @@ of it's employees are infosec experts, so there was a low chance that they'd
 already been compromised.
 
 
-----[ 5.3 - Technical Exploitation ]--------------------------------------------
+### ----[ 5.3 - Technical Exploitation ]--------------------------------------------
 
 After the Gamma Group hack, I described a process for searching for
 vulnerabilities [1]. Hacking Team had one public IP range:
@@ -326,7 +326,7 @@ see [3] and [4].
 [4] https://docs.google.com/presentation/d/1-mtBSka1ktdh8RHxo2Ft0oNNlIp7WmDA2z9zzHpon8A
 
 
---[ 6 - Be Prepared ]-----------------------------------------------------------
+## --[ 6 - Be Prepared ]-----------------------------------------------------------
 
 I did a lot of work and testing before using the exploit against Hacking Team.
 I wrote a backdoored firmware, and compiled various post-exploitation tools
@@ -405,14 +405,14 @@ spent a week testing my exploit, backdoor, and post-exploitation tools in the
 networks of other vulnerable companies before entering Hacking Team's network.
 
 
---[ 7 - Watch and Listen ]------------------------------------------------------
+## --[ 7 - Watch and Listen ]------------------------------------------------------
 
 Now inside their internal network, I wanted to take a look around and think
 about my next step. I started Responder.py in analysis mode (-A to listen
 without sending poisoned responses), and did a slow scan with nmap.
 
 
---[ 8 - NoSQL Databases ]-------------------------------------------------------
+## --[ 8 - NoSQL Databases ]-------------------------------------------------------
 
 NoSQL, or rather NoAuthentication, has been a huge gift to the hacker
 community [1]. Just when I was worried that they'd finally patched all of the
@@ -449,7 +449,7 @@ from this. They were spying on themselves without meaning to.
 [6] https://ht.transparencytoolkit.org/audio/
 
 
---[ 9 - Crossed Cables ]--------------------------------------------------------
+## --[ 9 - Crossed Cables ]--------------------------------------------------------
 
 Although it was fun to listen to recordings and see webcam images of Hacking
 Team developing their malware, it wasn't very useful. Their insecure backups
@@ -516,7 +516,7 @@ the old Exchange server in /mnt/part1
 [1] https://ht.transparencytoolkit.org/FileServer/FileServer/Hackingteam/InfrastrutturaIT/Rete/infrastruttura%20ht.pdf
 
 
---[ 10 - From backups to domain admin ]-----------------------------------------
+## --[ 10 - From backups to domain admin ]-----------------------------------------
 
 What interested me most in the backup was seeing if it had a password or hash
 that could be used to access the live server. I used pwdump, cachedump, and
@@ -564,7 +564,7 @@ HACKINGTEAM  e.rabe         erab@4HT!
 [5] https://github.com/gentilkiwi/mimikatz
 
 
---[ 11 - Downloading the mail ]-------------------------------------------------
+## --[ 11 - Downloading the mail ]-------------------------------------------------
 
 With the Domain Admin password, I have access to the email, the heart of the
 company. Since with each step I take there's a chance of being detected, I
@@ -585,7 +585,7 @@ test their software with their own locale.
 [1] http://www.stevieg.org/2010/07/using-the-exchange-2010-sp1-mailbox-export-features-for-mass-exports-to-pst/
 
 
---[ 12 - Downloading Files ]----------------------------------------------------
+## --[ 12 - Downloading Files ]----------------------------------------------------
 
 Now that I'd gotten Domain Admin, I started to download file shares using my
 proxy and the -Tc option of smbclient, for example:
@@ -597,13 +597,13 @@ I downloaded the Amministrazione, FAE DiskStation, and FileServer folders in
 the torrent like that.
 
 
---[ 13 - Introduction to hacking windows domains ]------------------------------
+## --[ 13 - Introduction to hacking windows domains ]------------------------------
 
 Before continuing with the story of the "weones culiaos" (Hacking Team), I
 should give some general knowledge for hacking windows networks.
 
 
-----[ 13.1 - Lateral Movement ]-------------------------------------------------
+### ----[ 13.1 - Lateral Movement ]-------------------------------------------------
 
 I'll give a brief review of the different techniques for spreading withing a
 windows network. The techniques for remote execution require the password or
@@ -720,7 +720,7 @@ Remote Movement:
 [8] https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Invoke-Runas.ps1
 
 
-----[ 13.2 - Persistence ]------------------------------------------------------
+### ----[ 13.2 - Persistence ]------------------------------------------------------
 
 Once you have access, you want to keep it. Really, persistence is only a
 challenge for assholes like Hacking Team who target activists and other
@@ -737,7 +737,7 @@ for hacking companies, it's not needed and it increases the risk of detection.
 [4] https://blog.netspi.com/tag/persistence/
 
 
-----[ 13.3 - Internal reconnaissance ]------------------------------------------
+### ----[ 13.3 - Internal reconnaissance ]------------------------------------------
 
 The best tool these days for understanding windows networks is Powerview [1].
 It's worth reading everything written by it's author [2], especially [3], [4],
@@ -799,7 +799,7 @@ the old school [8], with programs like netview.exe [9] or the windows builtin
 [14] https://github.com/samratashok/nishang
 
 
---[ 14 - Hunting Sysadmins ]----------------------------------------------------
+##  --[ 14 - Hunting Sysadmins ]----------------------------------------------------
 
 Reading their documentation about their infrastructure [1], I saw that I was
 still missing access to something important - the "Rete Sviluppo", an isolated
@@ -830,7 +830,7 @@ that mimikatz and keyloggers view all passwords equally.
 [9] http://hacking.technology/Hacked%20Team/c.pozzi/credentials/
 
 
---[ 15 - The bridge ]-----------------------------------------------------------
+## --[ 15 - The bridge ]-----------------------------------------------------------
 
 Within Christian Pozzi's Truecrypt volume, there was a textfile with many
 passwords [1]. One of those was for a Fully Automated Nagios server, which had
@@ -844,7 +844,7 @@ password from the textfile).
 [2] http://seclists.org/fulldisclosure/2014/Oct/78
 
 
---[ 16 - Reusing and resetting passwords ]--------------------------------------
+## --[ 16 - Reusing and resetting passwords ]--------------------------------------
 
 Reading the emails, I'd seen Daniele Milan granting access to git repos. I
 already had his windows password thanks to mimikatz. I tried it on the git
@@ -853,7 +853,7 @@ and their twitter account, I used the "forgot my password" function along with
 my access to their mail server to reset the passwords.
 
 
---[ 17 - Conclusion ]-----------------------------------------------------------
+## --[ 17 - Conclusion ]-----------------------------------------------------------
 
 That's all it takes to take down a company and stop their human rights abuses.
 That's the beauty and asymmetry of hacking: with 100 hours of work, one person
@@ -878,7 +878,7 @@ to all those who have had their blood spilled by Italian fascists.
 [1] https://twitter.com/coracurrier/status/618104723263090688
 
 
---[ 18 - Contact ]--------------------------------------------------------------
+## --[ 18 - Contact ]--------------------------------------------------------------
 
 To send me spear phishing attempts, death threats in Italian [1][2], and to
 give me 0days or access inside banks, corporations, governments, etc.

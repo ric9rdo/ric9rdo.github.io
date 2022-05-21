@@ -1,8 +1,9 @@
 Here is the write-up/guide from the FinFisher hack, which is excellent reading (source: https://www.reddit.com/r/HowToHack/comments/3j2as7/0x00txt_the_writeupguide_from_the_finfisher_hack/)
 
+
                 _   _            _      ____             _    _ 
                | | | | __ _  ___| | __ | __ )  __ _  ___| | _| |
-               | |_| |/ _` |/ __| |/ / |  _ \ / _` |/ __| |/ / |
+               | |_| |/ _  |/ __| |/ / |  _ \ / _` |/ __| |/ / |
                |  _  | (_| | (__|   <  | |_) | (_| | (__|   <|_|
                |_| |_|\__,_|\___|_|\_\ |____/ \__,_|\___|_|\_(_)
                                              

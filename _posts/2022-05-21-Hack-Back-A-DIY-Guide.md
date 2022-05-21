@@ -1,3 +1,9 @@
+---
+layout: article
+title: hack back diy
+mathjax: true
+---
+
 Who doesn't like a good (true) and inspiring story?
 (Source: https://www.exploit-db.com/papers/41915)
 

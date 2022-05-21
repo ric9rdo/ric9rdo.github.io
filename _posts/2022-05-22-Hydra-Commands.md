@@ -1,3 +1,9 @@
+---
+layout: article
+title: hydra commands
+mathjax: true
+---
+
 Bruteforce terminal commands to use with Hydra.
 
 # hydra: bruteforce smb login 

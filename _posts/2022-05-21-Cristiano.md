@@ -1,3 +1,9 @@
+---
+layout: article
+title: cristiano
+mathjax: true
+---
+
 Learn while entertained... (Source: https://github.com/jivoi/pentest/blob/master/writeups/TL8_WU_en_full.pdf)
 
 ## INTRODUCTION

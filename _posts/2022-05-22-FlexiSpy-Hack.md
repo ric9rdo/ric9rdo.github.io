@@ -1,3 +1,8 @@
+---
+layout: article
+title: flexispy hack
+mathjax: true
+---
 
 
 

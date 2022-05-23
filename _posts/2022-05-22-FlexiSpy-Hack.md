@@ -1,6 +1,6 @@
 ---
 layout: article
-title: flexispy hack
+title: flexispy
 mathjax: true
 ---
             ______ __     ______ _  __  ____ ____   ____ ______

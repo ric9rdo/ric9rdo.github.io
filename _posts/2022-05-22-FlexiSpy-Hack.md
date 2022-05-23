@@ -3,11 +3,7 @@ layout: article
 title: flexispy
 mathjax: true
 ---
-            ______ __     ______ _  __  ____ ____   ____ ______
-           / ____// /    / ____/| |/ / /  _// __ \ /  _// ____/
-          / /_   / /    / __/   |   /  / / / / / / / / / __/   
-         / __/  / /___ / /___  /   | _/ / / /_/ /_/ / / /___   
-        /_/    /_____//_____/ /_/|_|/___//_____//___//_____/   
+
                                                        
 Brazil's numero uno hacking group  /_ /  A familia! A movimento!
 
@@ -15,7 +11,6 @@ BTC GO HERE: 13XWdkW5sff2tUHauoEU4dKiigiMScEr7q
 
 Twitter:@fleximinx (for now)
 
-==========================================================================
 ## --[1: Introduction]-------------------------------------------------------
 
 Hello, all! 

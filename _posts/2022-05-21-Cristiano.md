@@ -4,7 +4,7 @@ title: cristiano
 mathjax: true
 ---
 
-Learn while entertained... (Source: https://github.com/jivoi/pentest/blob/master/writeups/TL8_WU_en_full.pdf)
+Learn while entertained... 
 
 ## INTRODUCTION
 Hi everyone! My name is Cristiano, I am an university student at the second year of computer science. I have a lot of interesting on network security and I dream to become a penetration tester in the future. This is not only a guide to complete the Lab V.8 of PenTestIt, treat it like an understanding manual of vulnerabilities and how to exploit them. Remember that I written this guide first of all for me to improve my skills and to track what I do during a penetration testing, so I will talk in first person. Ok, let's start!
@@ -488,3 +488,5 @@ Lab finished!
 ## CONCLUSION
 
 Ok guys, the guide terminates here. I hope you enjoyed my explanations, any suggestions are appreciated. You can contact me into Telegram EN channel (Cristiano).
+
+(Source: https://github.com/jivoi/pentest/blob/master/writeups/TL8_WU_en_full.pdf)

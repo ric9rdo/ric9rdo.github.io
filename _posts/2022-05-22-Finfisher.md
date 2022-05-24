@@ -4,7 +4,7 @@ title: finfisher
 mathjax: true
 ---
 
-Here is the write-up/guide from the FinFisher hack, which is excellent reading (source: https://www.reddit.com/r/HowToHack/comments/3j2as7/0x00txt_the_writeupguide_from_the_finfisher_hack/)
+Here is the write-up/guide from the FinFisher hack, which is excellent reading.
 
 
                 _   _            _      ____             _    _ 

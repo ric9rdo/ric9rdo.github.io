@@ -1,6 +1,6 @@
 ---
 layout: article
-title: hack back diy
+title: hack back diy guide
 mathjax: true
 ---
 

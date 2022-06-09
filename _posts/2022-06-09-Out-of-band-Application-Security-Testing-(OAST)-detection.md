@@ -31,12 +31,12 @@ detection rule for Out-of-band application security testing (OAST), often used b
 
 
 
-### Query
+### Sentinel Query
 
 DnsEvents
-
 | where Name has '.interact.sh' or Name has '.oast.pro' or Name has '.oast.live' or Name has '.oast.site' or Name has '.oast.online' or Name has '.oast.fun' or Name has '.oast.me' or Name has '.burpcollaborator.net' or Name has '.oastify.com' or Name has '.canarytokens.com' or Name has '.requestbin.net' or Name has '.dnslog.cn'
 | distinct Name, Computer
+
 
 <>
 

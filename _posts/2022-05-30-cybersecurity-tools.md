@@ -4,89 +4,90 @@ title: cybersecurity tools
 mathjax: true
 ---
 
-### Certificate Search
+### [Certificate Search](https://crt.sh)
+
+### [Base64 Decode and Encode](https://www.base64decode.org/)
 
 
-### Base64 Decode and Encode
+### [CrackStation - Online Password Hash Cracking - MD5, SHA1, Linux, Rainbow Tables, etc.](https://crackstation.net/)
 
 
-### CrackStation - Online Password Hash Cracking - MD5, SHA1, Linux, Rainbow Tables, etc.
+### [Find out what websites are built with - Wappalyzer](https://www.wappalyzer.com/)
 
 
-### Find out what websites are built with - Wappalyzer
+### [IPv6 Subnet Calculator](https://www.vultr.com/resources/subnet-calculator-ipv6/?prefix_length=64&display=long&ipv6_address=)
 
 
-### IPv6 Subnet Calculator
+### [TCPView for Windows](https://docs.microsoft.com/pt-pt/sysinternals/downloads/tcpview)
 
 
-### TCPView for Windows
+### [Online IP Subnet Calculator](https://www.subnet-calculator.com/)
 
 
-### Online IP Subnet Calculator
+### [Hexadecimal to Decimal Converter](https://www.binaryhexconverter.com/hex-to-decimal-converter)
 
 
-### Hexadecimal to Decimal Converter
+### [Crontab Generator - Generate crontab syntax](https://crontab-generator.org/)
 
 
-### Crontab Generator - Generate crontab syntax
+### [Cron schedule expression editor](https://crontab.guru/)
 
 
-### Cron schedule expression editor
+### [XSS Hunter](https://xsshunter.com/)
 
 
-### XSS Hunter
+### [Internet Archive: Wayback Machine](https://archive.org/web/)
 
 
-### Internet Archive: Wayback Machine
+### [Wireshark](https://www.wireshark.org/)
 
 
-### Wireshark
+### [WhatIsMyIP](https://www.whatismyip.com/)
 
 
-### WhatIsMyIP
+### [Request bin to collect, inspect and debug HTTP requests and webhooks](https://requestbin.com/)
 
 
-### Request bin to collect, inspect and debug HTTP requests and webhooks
+### [OpenVPN](https://openvpn.net/vpn-client/)
 
 
-### OpenVPN
+### [Linpeas](https://linpeas.sh/)
 
 
-### Linpeas
+### [CyberChef](https://gchq.github.io/CyberChef/)
 
 
-### CyberChef
+### [XSS Payloads](http://www.xss-payloads.com/)
 
 
-### XSS Payloads
+### [Exploit Database - Exploits for Penetration Testers, Researchers, and Ethical Hackers](https://www.exploit-db.com/)
 
 
-### Exploit Database - Exploits for Penetration Testers, Researchers, and Ethical Hackers
+### [Intigriti - Bug Bounty & Agile Pentesting Platform](https://www.intigriti.com/)
 
 
-### Intigriti - Bug Bounty & Agile Pentesting Platform
+### [OSSTMM 3](https://www.isecom.org/OSSTMM.3.pdf)
 
 
-### OSSTMM 3
+### [Cybersecurity Framework](https://www.nist.gov/cyberframework)
 
 
-### Cybersecurity Framework
+### [CAF - Principles and guidance](https://www.ncsc.gov.uk/collection/caf/caf-principles-and-guidance)
 
 
-### CAF - Principles and guidance
+### [OWASP ZAP](https://www.zaproxy.org/?msclkid=a7be5dffcea811ecb860f1e6c390cfe9)
 
 
-### OWASP ZAP
+### [Reverse Shell Cheat Sheet](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet?msclkid=c53a8044d06b11ec938eb5efa832d4e2)
 
 
-### Reverse Shell Cheat Sheet
+### [DNS recon and research, find and lookup dns records](https://dnsdumpster.com/)
 
 
-### DNS recon and research, find and lookup dns records
+### [Shodan Search Engine](https://www.shodan.io/)
 
 
-### Shodan Search Engine
+### [Penetration Testing Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
 
 
-### Penetration Testing Tools Cheat Sheet 
-
+### [Metasploit](https://metasploit.com/)

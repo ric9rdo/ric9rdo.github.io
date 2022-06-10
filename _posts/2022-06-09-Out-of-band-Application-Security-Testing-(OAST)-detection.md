@@ -4,8 +4,7 @@ title: Out-of-band Application Security Testing (OAST) detection
 mathjax: true
 ---
 
-Detection rule for Out-of-band application security testing (OAST), often used by pentesters to detect vulnerabilities. If someone uses such tool/technique, we will get an incident in Sentinel.
-
+Detection rule for Out-of-band application security testing (OAST), often used by pentesters to detect vulnerabilities. 
  
 
 - Out-of-band application security testing (OAST) uses external servers to see otherwise invisible vulnerabilities. It was introduced to further improve the DAST (dynamic application security testing) model. 
@@ -14,7 +13,7 @@ Detection rule for Out-of-band application security testing (OAST), often used b
 
 - OAST uses standard external domains to share the organization’s information. These external domains are configured to explore vulnerabilities in the corporate environment. 
 
-If these external domains are observed in logs, we should reach the machine owner to understand whether is a legitimate business risk assessment or can be a reconnaissance activity to explore vulnerabilities: interact.sh, oast.pro, oast.live, oast.site, oast.online, oast.fun, oast.me, burpcollaborator.net, oastify.com, canarytokens.com, requestbin.net, dnslog.cn. 
+If these external domains are observed in logs, you should reach the machine owner to understand whether is a legitimate business risk assessment or can be a reconnaissance activity to explore vulnerabilities: interact.sh, oast.pro, oast.live, oast.site, oast.online, oast.fun, oast.me, burpcollaborator.net, oastify.com, canarytokens.com, requestbin.net, dnslog.cn. 
 
  
 

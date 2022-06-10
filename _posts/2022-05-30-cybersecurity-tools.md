@@ -4,7 +4,11 @@ title: cybersecurity tools
 mathjax: true
 ---
 
+Here are some of the favorites that leave on my browser. Let's call it an assorted mix...
+
+
 ### [Certificate Search](https://crt.sh)
+
 
 ### [Base64 Decode and Encode](https://www.base64decode.org/)
 

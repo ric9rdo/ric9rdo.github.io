@@ -1,4 +1,4 @@
-Ransomware attacks can be difficult to detect in real-time, as they often involve the attacker encrypting or altering data in a way that is not immediately noticeable. However, there are a few approaches you can take to try to detect ransomware attacks using KQL in real time.
+Ransomware attacks can be difficult to detect in real-time, as they often involve the attacker encrypting or altering data in a way that is not immediately noticeable. However, there are a few approaches you can take to try to detect ransomware attacks using KQL in real-time.
 
 One approach is to look for unusual changes to your system or data. For example, you could set up an alert to trigger when there is a sudden increase in the number of file deletion or modification events, or when there is a sudden change in the access patterns of certain files or directories.
 

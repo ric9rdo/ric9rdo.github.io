@@ -3,7 +3,7 @@ Hi! I am a Security Engineer passionate about security & privacy, with a particu
 Here is an example of one of my studies, a paper on how enterprises can improve their social engineering resilience:
 
 <h3 align="left">Published Scientific Papers:</h3>
-<p align="left"> <img src="https://aris-journal.com/aris/index.php/journal/article/view/30/22" alt="ARIS2 Journal">
+<p align="left"> <img src="https://aris-journal.com/aris/index.php/journal/article/view/30/22" alt="ARIS2 Journal"> https://aris-journal.com/aris/index.php/journal/article/view/30/22
 <p align="left"> <img src="https://www.researchgate.net/publication/376315901_Improving_Social_Engineering_Resilience_In_Enterprises_A_Systematic_Literature_Review?_sg=UjTtlY3BgZKqPhV2h6-DN13C1Zanq78mL4TZswZGbAuLp3BKR2E_ISvBTsLa2M-4eGSZXoMfg-BC2ig&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiX2RpcmVjdCJ9fQ" alt="ResearchGate">
 
 

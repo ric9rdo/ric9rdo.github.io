@@ -1,3 +1,9 @@
+---
+layout: article
+title: ransomware
+mathjax: true
+---
+
 Ransomware is a type of malware that encrypts or alters a victim's data and demands a ransom from the victim to restore access. There are many different types of ransomware, and they can vary in terms of how they operate and the techniques they use to spread.
 
 Some common types of ransomware include:

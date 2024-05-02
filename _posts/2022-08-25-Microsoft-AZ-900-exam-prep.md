@@ -1,3 +1,10 @@
+---
+layout: article
+title: az-500 exam prep
+mathjax: true
+---
+
+
 # Index
 1. [Microsoft Azure Fundamentals: Describe cloud concepts (25–30%)](#microsoft-azure-fundamentals-describe-cloud-concepts-2530)
 2. [Azure Fundamentals: Describe Azure architecture and services (35–40%)](#azure-fundamentals-describe-azure-architecture-and-services-35–40)

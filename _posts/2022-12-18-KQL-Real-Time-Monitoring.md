@@ -1,3 +1,10 @@
+---
+layout: article
+title: kql real time monitoring
+mathjax: true
+---
+
+
 KQL (Kusto Query Language) is a powerful and flexible language that can be used to query and analyze data stored in Azure Monitor logs. It is particularly useful for real-time threat detection because it allows you to quickly and easily identify patterns and anomalies in your data that may indicate a potential threat.
 
 To use KQL for real-time threat detection, you can set up alerts that trigger when certain conditions are met. For example, you might set up an alert to trigger when a high number of failed login attempts are detected within a short period of time, which could indicate a brute-force attack.

@@ -29,5 +29,3 @@ Ransomware can be spread through a variety of means, including email attachments
 **Locky**: This ransomware has been active since 2016 and has affected a large number of organizations worldwide. It spreads through email attachments and encrypts the victim's data, demanding a ransom to restore access.
 
 **Cryptolocker**: This ransomware was active from 2013 to 2014 and was responsible for a number of high-profile attacks. It spread through email attachments and encrypted the victim's data, demanding a ransom to restore access.
-
-It's important to note that this list is not exhaustive, and new strains of ransomware are being developed and deployed constantly. It is important to stay informed about the latest threats and take steps to protect your systems from ransomware.

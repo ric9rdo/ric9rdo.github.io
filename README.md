@@ -1,17 +1,15 @@
-## Welcome to my cybersecurity (b)log
+## Welcome to my cybersecurity & privacy related content (b)log
 
 <p align="left"> <img src="https://tryhackme-badges.s3.amazonaws.com/onionpod.png" alt="TryHackMe">
   
 ## I cover content about
   
+- Cybersecurity
+- Privacy
 - Linux
 - Windows
 - Hacking
 - Tools and code
-- Useful links
-- Tryhackme rooms
-- Brain dumps and others
-  
   
 
 #### If you find this content useful...

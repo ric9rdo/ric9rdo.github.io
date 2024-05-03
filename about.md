@@ -21,7 +21,7 @@ https://aris-journal.com/aris/index.php/journal/article/view/30/22<br>
 
 <img src="/images/researchgate.png"/><br>
 
-https://www.researchgate.net/publication/376315901_Improving_Social_Engineering_Resilience_In_Enterprises_A_Systematic_Literature_Review?_sg=UjTtlY3BgZKqPhV2h6-DN13C1Zanq78mL4TZswZGbAuLp3BKR2E_ISvBTsLa2M-4eGSZXoMfg-BC2ig&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiX2RpcmVjdCJ9fQ<br>
+https://www.researchgate.net/profile/Ricardo_Ribeiro56<br>
 
 
 <h3 align="left">Support:</h3>

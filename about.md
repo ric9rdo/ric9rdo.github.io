@@ -1,6 +1,6 @@
 Hi! I am a Security Engineer passionate about security & privacy, with a particular fascination on all this topics applied to human behavior. 
 
-Here is an example of one of my studies, a paper on how enterprises can improve their social engineering resilience:
+Here are some of my papers, projects and where you can reach me:
 
 <h3 align="left">Published Scientific Papers:</h3>
 
@@ -22,5 +22,6 @@ https://www.researchgate.net/publication/376315901_Improving_Social_Engineering_
 
 <h3 align="left">Reach me on LinkedIn:</h3>
 <img src="/images/linkedin.png"/>
+
 
 https://www.linkedin.com/in/ric9rdo/

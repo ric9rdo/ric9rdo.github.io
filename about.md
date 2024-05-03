@@ -5,9 +5,11 @@ Here is an example of one of my studies, a paper on how enterprises can improve 
 <h3 align="left">Published Scientific Papers:</h3>
 
 <img src="/images/aris2.png"/>
+
 https://aris-journal.com/aris/index.php/journal/article/view/30/22
 
 <img src="/images/researchgate.png"/>
+
 https://www.researchgate.net/publication/376315901_Improving_Social_Engineering_Resilience_In_Enterprises_A_Systematic_Literature_Review?_sg=UjTtlY3BgZKqPhV2h6-DN13C1Zanq78mL4TZswZGbAuLp3BKR2E_ISvBTsLa2M-4eGSZXoMfg-BC2ig&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiX2RpcmVjdCJ9fQ
 
 
@@ -20,4 +22,5 @@ https://www.researchgate.net/publication/376315901_Improving_Social_Engineering_
 
 <h3 align="left">Reach me on LinkedIn:</h3>
 <img src="/images/linkedin.png"/>
+
 https://www.linkedin.com/in/ric9rdo/

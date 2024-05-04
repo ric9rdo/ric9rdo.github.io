@@ -14,7 +14,7 @@ https://www.linkedin.com/in/ric9rdo/
 
 <h3 align="left">Published Scientific Papers:</h3>
 
-![aris2.png](/images/){:.rounded}
+![aris2.png](/images/aris2.png){:.rounded}
 <img src="/images/aris2.png"/><br>
 
 https://aris-journal.com/aris/index.php/journal/article/view/30/22<br>

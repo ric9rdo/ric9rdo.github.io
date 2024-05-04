@@ -24,7 +24,7 @@ https://aris-journal.com/aris/index.php/journal/article/view/30/22<br>
 
 https://www.researchgate.net/profile/Ricardo_Ribeiro56<br>
 
-
+<br>
 <img src="/images/orcid.png"/><br>
 
 https://orcid.org/0009-0009-2224-2266<br>
